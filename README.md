@@ -1,2 +1,2 @@
 You can play against the computer..
-Only desktop
+# Check live demo https://kolak94.github.io/stone-paper-scissors/
